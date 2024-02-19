@@ -20,7 +20,7 @@ public class Dasar_Java {
         if (b2 != 0 && b3 != 0) {
             System.out.println("Hasil pembagian: " + ((double) b1 / b2 / b3));
         } else {
-            System.out.println("Tidak dapat melakukan pembagian karena terdapat bilangan nol.");
+            System.out.println("Tidak dapat melakukan pembagian terdapat nol");
         }
 
         input.close();
